@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/vmm.dir/src/vmm.c.o CMakeFiles/vmm.dir/src/main.c.o CMakeFiles/vmm.dir/src/output_utility.c.o -o vmm 
